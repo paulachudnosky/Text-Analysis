@@ -11,8 +11,8 @@ This is a very simple project part of a technical test for an internship!
 ## 🛠️ Installation & Usage
 1️⃣ Clone this repository:
 ```bash
- git clone https://github.com/yourusername/Word-Frequency-Analyzer.git
- cd Word-Frequency-Analyzer
+ git clone https://github.com/paulachudnosky/Text-Analysis.git
+ cd Text-Analysis
 ```
 
 2️⃣ Prepare a text file for analysis (e.g., sample.txt).
